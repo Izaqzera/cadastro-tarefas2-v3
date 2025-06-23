@@ -1,32 +1,4 @@
-Pular para o conteúdo principal
-Google Sala de Aula
-Sala de Aula
-Desenvolvimento de Sistemas - SESI - 2025
-Início
-Agenda
-Minhas inscrições
-Pendentes
-P
-Projeto de Vida
-I
-Isaque & Ana
-D
-Desenvolvimento de Sistemas - SESI - 2025
-C
-Costa Family
-Turmas arquivadas
-Configurações
-Arquivo base em MDDetalhes do material
-Arquivo base em MD
-Marcelo Rubens
-•
-07:12
 
-README_MODEL.md
-Texto
-Comentários da turma
-
-Adicionar comentário para a turma...
 
 # Projeto Cadastro de Tarefas
 
